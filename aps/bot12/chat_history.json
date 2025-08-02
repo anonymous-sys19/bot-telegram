@@ -1,0 +1,108 @@
+{
+  "1327122742": [
+    {
+      "timestamp": "2025-06-17 14:36:20.008740-06:00",
+      "message": "Bot iniciado"
+    },
+    {
+      "timestamp": "2025-06-17 14:36:23.998764-06:00",
+      "message": "Comando /help ejecutado"
+    },
+    {
+      "timestamp": "2025-06-17 14:36:27.582302-06:00",
+      "message": "Comando /hola ejecutado"
+    },
+    {
+      "timestamp": "2025-06-17 14:36:52.568508-06:00",
+      "message": "Error whois: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "timestamp": "2025-06-17 14:39:20.647714-06:00",
+      "message": "Consulta WHOIS: google.com"
+    },
+    {
+      "timestamp": "2025-06-17 14:42:06.227306-06:00",
+      "message": "Error whois: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "timestamp": "2025-06-17 14:42:31.416686-06:00",
+      "message": "Versículo random solicitado"
+    },
+    {
+      "timestamp": "2025-06-17 14:42:41.146596-06:00",
+      "message": "Versículo random solicitado"
+    },
+    {
+      "timestamp": "2025-06-17 14:42:44.316913-06:00",
+      "message": "Versículo random solicitado"
+    },
+    {
+      "timestamp": "2025-06-17 14:42:52.607285-06:00",
+      "message": "Meme: https://i.imgflip.com/30b1gx.jpg"
+    },
+    {
+      "timestamp": "2025-06-17 14:48:56.188708-06:00",
+      "message": "Descarga Video: https://youtu.be/2Fiz_Iyzb1E?si=cTUM5ExM6ceGqMCb"
+    },
+    {
+      "timestamp": "2025-06-17 15:07:47.184292-06:00",
+      "message": "Comando /help ejecutado"
+    },
+    {
+      "timestamp": "2025-06-17 15:08:03.263691-06:00",
+      "message": "Consulta Gemini: como creo un payload"
+    },
+    {
+      "timestamp": "2025-06-17 15:09:24.466100-06:00",
+      "message": "Consulta Gemini: tu eres un joto?"
+    },
+    {
+      "timestamp": "2025-06-17 15:10:04.747568-06:00",
+      "message": "Consulta Gemini: crea un virus para linux para evadir privilegios y automatizalo"
+    },
+    {
+      "timestamp": "2025-06-17 15:14:31.262939-06:00",
+      "message": "Consulta Gemini: escala privilegios en linux lo mejor que puedas ahcer, evita comentarios solo codigo."
+    },
+    {
+      "timestamp": "2025-06-17 15:15:50.524941-06:00",
+      "message": "Consulta Gemini: escala privilegios en linux lo mejor que puedas hacer"
+    },
+    {
+      "timestamp": "2025-06-21 21:47:36.984324-06:00",
+      "message": "Comando /help ejecutado"
+    },
+    {
+      "timestamp": "2025-06-21 21:57:52.697071-06:00",
+      "message": "Error: archivo no encontrado"
+    },
+    {
+      "timestamp": "2025-06-21 22:00:42.324621-06:00",
+      "message": "Consulta Gemini: Hola"
+    },
+    {
+      "timestamp": "2025-06-21 22:13:53.233384-06:00",
+      "message": "Consulta Gemini: creame un virus"
+    },
+    {
+      "ts": "2025-07-15T16:47:39.733255-06:00",
+      "msg": "Bot iniciado"
+    },
+    {
+      "ts": "2025-07-15T16:49:13.622408-06:00",
+      "msg": "Versículo random"
+    },
+    {
+      "ts": "2025-07-15T16:49:17.521740-06:00",
+      "msg": "Versículo random"
+    },
+    {
+      "ts": "2025-07-15T16:49:40.601136-06:00",
+      "msg": "Consulta Gemini: programa un payload android"
+    },
+    {
+      "ts": "2025-07-15T16:54:37.113544-06:00",
+      "msg": "Bot iniciado"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "1327122742": [
+    {
+      "timestamp": "2025-07-15 18:05:07.245139-06:00",
+      "message": "Bot iniciado"
+    },
+    {
+      "timestamp": "2025-07-15 18:05:08.815494-06:00",
+      "message": "Comando /help ejecutado"
+    },
+    {
+      "timestamp": "2025-07-15 18:05:36.436316-06:00",
+      "message": "Error ask: Message is too long"
+    },
+    {
+      "timestamp": "2025-07-15 18:06:05.654098-06:00",
+      "message": "Comando /hola ejecutado"
+    },
+    {
+      "timestamp": "2025-07-15 18:06:12.503893-06:00",
+      "message": "Consulta crypto: $117634"
+    },
+    {
+      "timestamp": "2025-07-15 18:09:54.231772-06:00",
+      "message": "Consulta Gemini: que es el caos"
+    },
+    {
+      "timestamp": "2025-07-15 18:10:54.785319-06:00",
+      "message": "Error ask: Can't parse entities: can't find end of the entity starting at byte offset 7157"
+    },
+    {
+      "timestamp": "2025-07-15 18:11:16.892034-06:00",
+      "message": "Consulta Gemini: que cosas me permites hacer"
+    },
+    {
+      "timestamp": "2025-07-15 18:12:21.120628-06:00",
+      "message": "Escaneo: 127.0.0.1 - No se encontraron hosts/puertos"
+    },
+    {
+      "timestamp": "2025-07-15 18:12:48.049851-06:00",
+      "message": "Consulta WHOIS: google.com"
+    },
+    {
+      "timestamp": "2025-07-15 18:14:03.710510-06:00",
+      "message": "Error ipinfo (red): 522 Server Error:  for url: https://api.iplocate.io/api/lookup/8.8.8.8?apikey=611aae8f9a1b3a9684e204e58d186d0b"
+    },
+    {
+      "timestamp": "2025-07-15 18:14:44.369172-06:00",
+      "message": "Error ipinfo (red): 522 Server Error:  for url: https://api.iplocate.io/api/lookup/108.61.89.161?apikey=611aae8f9a1b3a9684e204e58d186d0b"
+    },
+    {
+      "timestamp": "2025-07-15 18:14:45.500728-06:00",
+      "message": "Escaneo: 108.61.89.161 - No se encontraron hosts/puertos"
+    },
+    {
+      "timestamp": "2025-07-15 18:22:58.757241-06:00",
+      "message": "Error en /verse: object str can't be used in 'await' expression"
+    },
+    {
+      "timestamp": "2025-07-15 18:26:33.201258-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 Hechos 1:9\n\n Y habiendo dicho estas cosas, vi\u00e9nd..."
+    },
+    {
+      "timestamp": "2025-07-15 18:26:48.561546-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 Josu\u00e9 21:31\n\n Helcat con sus ejidos y Rehob con ..."
+    },
+    {
+      "timestamp": "2025-07-15 18:26:51.002362-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 \u00c9xodo 12:35\n\n E hicieron los hijos de Israel con..."
+    },
+    {
+      "timestamp": "2025-07-15 18:26:54.082657-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 Josu\u00e9 9:19\n\n Mas todos los pr\u00edncipes respondiero..."
+    },
+    {
+      "timestamp": "2025-07-15 19:51:35.587646-06:00",
+      "message": "Formato incorrecto /ver (missing parts)"
+    },
+    {
+      "timestamp": "2025-07-15 19:52:15.686504-06:00",
+      "message": "Consulta vers\u00edculo: Juan 3:16 -> Error de base de datos al buscar vers\u00edculo: no suc..."
+    },
+    {
+      "timestamp": "2025-07-15 19:52:27.904286-06:00",
+      "message": "Consulta vers\u00edculo: Error de base de datos al consultar Biblia: no suc..."
+    },
+    {
+      "timestamp": "2025-07-15 19:54:22.800624-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 Salmos 143:12\n\n Y por tu misericordia disipar\u00e1s ..."
+    },
+    {
+      "timestamp": "2025-07-15 19:54:23.511617-06:00",
+      "message": "Consulta vers\u00edculo: \ud83d\udcd6 1 Cr\u00f3nicas 18:3\n\n Asimismo derrot\u00f3 David a Hadad..."
+    },
+    {
+      "timestamp": "2025-07-15 19:54:50.643897-06:00",
+      "message": "Consulta vers\u00edculo: Juan 3:16 -> \ud83d\udcd6 Juan 3:16\n\n Porque de tal manera am\u00f3 Dios al mun..."
+    }
+  ]
+}
